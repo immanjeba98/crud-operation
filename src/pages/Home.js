@@ -382,7 +382,7 @@ const Home = () => {
 
                             </div>
 
-                            <div className='d-flex justify-content-center  pb-5 align-items-center sec7-text-bg'>
+                            <div className='  pb-5  sec7-text-bg'>
                                 <input type='text' className="input-sub" placeholder='your mail'/>
 
                                 <button className='btn-sub ml-10'>Subscribe</button>
