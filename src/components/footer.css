@@ -1,0 +1,64 @@
+.text-footer h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 124.5%;
+    /* identical to box height, or 25px */
+    
+    letter-spacing: 0.005em;
+    
+    /* TEXT CLR */
+    
+    color: #5E6282;
+}
+ul li{
+    list-style: none;
+}
+.footer-links-heading{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 124.5%;
+/* or 26px */
+
+
+/* black */
+
+color: #080809;
+
+}
+.nav-links-footer{
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 124.5%;
+color: #5E6282;
+margin-top: 8px;
+}
+.cus-footer p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 124.5%;
+color: #5E6282;
+margin-top: 15px;
+}
+.footer-copy p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 124.5%;
+    text-align: center;
+    color: #5E6282;
+    padding-bottom: 20px;
+    margin-top: 15px;
+}
+.ml-footer{
+    margin-left: 4px;
+}
