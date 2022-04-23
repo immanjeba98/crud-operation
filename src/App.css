@@ -253,6 +253,10 @@ border-radius: 20px 129px 20px 20px;
   background-position: center left ;
   /* background-size:contain ; */
   background-repeat: no-repeat!important;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;  
 }
 .bg-sec7{
   background: url('./asset/img/bg-sec2.png'); 
@@ -383,6 +387,25 @@ img.card-img-top {
   height: 100px;
   display: block;
 }
+
+.sec7-text-bg{
+  background: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
+.input-sub{
+  width: 100%;
+}
+.sec7-text{
+  background: none;
+}
+.btn-sub{
+  margin-top: 20px;
+}
+
+}
+
 
 
