@@ -288,7 +288,13 @@ font-style: normal;
 font-weight: 200;
 font-size: 18px;
 }
-.testi-cust h1{
+.testi-cust h6{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+}
+.testi-cust p{
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 200;
